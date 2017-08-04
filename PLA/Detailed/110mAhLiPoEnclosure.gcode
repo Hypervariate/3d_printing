@@ -1,5 +1,5 @@
 ;Basic slice data:
-;Sliced at: Fri 04-08-2017 11:43:37
+;Sliced at: Fri 04-08-2017 12:49:51
 ;Layer height: 0.14
 ;Walls: 1
 ;Fill: 100
